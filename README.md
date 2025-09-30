@@ -1,7 +1,7 @@
 # 🩺 Diabetes Prediction using Machine Learning
 
 This project predicts whether a person has diabetes or not using **machine learning models**.  
-We use the **Pima Indians Diabetes Dataset**, perform exploratory data analysis (EDA), train multiple classifiers, and compare their performance.  
+We use the **Diabetes Dataset from Kaggle**, perform exploratory data analysis (EDA), train multiple classifiers, and compare their performance.  
 
 ---
 
@@ -83,6 +83,7 @@ We use the **Pima Indians Diabetes Dataset**, perform exploratory data analysis 
 ## 🙌 Acknowledgements
 
 Dataset: https://www.kaggle.com/datasets/mathchi/diabetes-data-set
+
 Inspired by real-world healthcare applications of ML.
 
 ---
